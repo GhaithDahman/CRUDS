@@ -1,0 +1,3 @@
+javac java1.java
+java java1
+PAUSE
